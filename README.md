@@ -2,7 +2,7 @@
     crawl2.py ：收集函数
     get_in.py ： 代理提取
     localinstore.py ： 代理以csv 文档处理
-    mysql_pool.py ： 代理数据库处理s
+    mysql_pool.py ： 代理数据库处理
     reqajax.py  ： 构造异步请求
     Schedure_.py ： 调度器 可以按时间间隔运行
     settings.py ： 配置文件
